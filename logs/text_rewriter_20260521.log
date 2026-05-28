@@ -1,0 +1,3 @@
+2026-05-21 10:26:16 - TextRewritingApp - INFO - Initializing Text Rewriting App on cpu
+2026-05-21 10:29:09 - TextRewritingApp - INFO - Components initialized
+2026-05-21 10:29:09 - TextRewritingApp - INFO - Using Qwen LLM for text rewriting

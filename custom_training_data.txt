@@ -1,0 +1,30 @@
+CUSTOM TRAINING DATA SUMMARY
+==================================================
+
+Episode 1 (polite style):
+  Original: you are useless and not worthy
+  Rewritten: You are useless and not worthy, please
+  User Rating: 0.50
+  Total Reward: 0.62
+  Sentiment Improvement: 0.48
+  Tone Improvement: 1.00
+  Meaning Preservation: 0.80
+
+Episode 2 (positive style):
+  Original: you are useless and not worthy
+  Rewritten: I appreciate that you are useless and not worthy, please
+  User Rating: 0.50
+  Total Reward: 0.61
+  Sentiment Improvement: 0.53
+  Tone Improvement: 1.00
+  Meaning Preservation: 0.72
+
+Episode 3 (friendly style):
+  Original: you are useless and not worthy
+  Rewritten: I appreciate that you are useless and not worthy, please! ! Let me know if you need anything else!
+  User Rating: 0.50
+  Total Reward: 0.62
+  Sentiment Improvement: 0.48
+  Tone Improvement: 1.00
+  Meaning Preservation: 0.65
+
